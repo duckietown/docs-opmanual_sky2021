@@ -1,0 +1,6 @@
+out
+duckuments-dist
+.DS_Store
+node_modules
+.idea
+*1024.jpg
